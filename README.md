@@ -1,7 +1,8 @@
 ### I'm beginner programmer and Java developer
-
+---
 
 ### Languages and Tools
+---
 ![JAVA](https://img.shields.io/badge/JAVA-black)
 ![POSTGRESQL](https://img.shields.io/badge/SQL-black?logo=postgresql&logoColor=%234169E1)
 ![APACHE MAVEN](https://img.shields.io/badge/APACHE%20MAVEN-black?logo=apachemaven&logoColor=%23C71A36)
@@ -11,20 +12,14 @@
 ![C](https://img.shields.io/badge/C-black?logo=c&logoColor=%23A8B9CC)
 ![C#](https://img.shields.io/badge/C%20SHARP-black?logo=csharp&logoColor=%23239120)
 
+### Statistics
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaelond)
 
+[![WAKATIME](https://wakatime.com/badge/user/98c4832c-52a1-4187-bec7-931295ed67fe.svg)](https://wakatime.com/@98c4832c-52a1-4187-bec7-931295ed67fe)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=98c4832c-52a1-4187-bec7-931295ed67fe)](https://wakatime.com/@98c4832c-52a1-4187-bec7-931295ed67fe)
 
-<!--
-**ZaelonD/ZaelonD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub profile trophy
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=zaelond)
