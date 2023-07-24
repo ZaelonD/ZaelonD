@@ -1,6 +1,10 @@
 ### I'm beginner programmer and Java developer
 ---
 
+<p align="center">
+ <img width="600" src="resources/github-snake.svg" alt="snake"/>
+</p>
+
 ### Languages and Tools
 ---
 ![JAVA](https://img.shields.io/badge/JAVA-282A36)
