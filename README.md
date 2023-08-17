@@ -1,5 +1,4 @@
-## I'm beginner programmer and Java developer
----
+# I'm beginner programmer and Java developer
 
 <p align="center">
  <img width="600" src="resources/github-snake.svg" alt="snake"/>
