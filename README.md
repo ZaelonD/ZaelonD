@@ -4,8 +4,7 @@
  <img width="600" src="resources/github-snake.svg" alt="snake"/>
 </p>
 
-### Languages and Tools
----
+## Languages and Tools
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -20,14 +19,14 @@
 </p>
 
 
-### Statistics
----
+## Statistics
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaelond&theme=dracula)
 
 [![WAKATIME](https://wakatime.com/badge/user/98c4832c-52a1-4187-bec7-931295ed67fe.svg)](https://wakatime.com/@98c4832c-52a1-4187-bec7-931295ed67fe)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=98c4832c-52a1-4187-bec7-931295ed67fe&theme=dracula)](https://wakatime.com/@98c4832c-52a1-4187-bec7-931295ed67fe)
 
-### GitHub profile trophy
----
+## GitHub profile trophy
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=zaelond&theme=dracula)
